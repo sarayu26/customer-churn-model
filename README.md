@@ -85,3 +85,37 @@ The Tuned Random Forest was selected as the final model because it:
 
 ### 1. Clone the Repository
 
+
+### 2. Install Dependencies
+
+
+### 3. Run the Analysis
+
+Open the notebook:
+
+
+Run all cells sequentially to reproduce results.
+
+---
+
+## Repository Structure
+
+customer-churn-model/
+│
+├── data/
+│ └── churn.csv
+├── notebooks/
+│ └── churn_analysis.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
+---
+
+## Author
+
+Sarayu  
+University of Exeter  
+Machine Learning with Tabular Data  
+
